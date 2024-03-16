@@ -1,7 +1,7 @@
 -  Hi, I’m @binarymusa
--  I’m interested in backend development
--  I’m currently learning flask framework 
--  I’m looking to collaborate on some flask framework project to build up my skills
+-  I’m capitalizing my skills in fullstack web development
+-  Currently engaging in flask based web app development 
+-  I’m looking to collaborate on some flask framework project to level up my skills
 -  How to reach me: 
 
 <!---
