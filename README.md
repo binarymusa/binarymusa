@@ -2,7 +2,7 @@ NAME:
 
 Hi, I’m @binarymusa
 
-FIELDOF EXECUTION:  
+FIELD OF EXECUTION:  
 
  flask ,fullstack web development
     
