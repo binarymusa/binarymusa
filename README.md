@@ -1,5 +1,7 @@
-    name:  Hi, I’m @binarymusa
-     work zone : flask ,fullstack web development
+NAME: 
+    Hi, I’m @binarymusa
+FIELDOF EXECUTION:  
+     flask ,fullstack web development
     
 
 <!---
