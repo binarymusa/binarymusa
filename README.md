@@ -1,7 +1,9 @@
 NAME: 
-    Hi, I’m @binarymusa
+
+Hi, I’m @binarymusa
 FIELDOF EXECUTION:  
-     flask ,fullstack web development
+
+ flask ,fullstack web development
     
 
 <!---
