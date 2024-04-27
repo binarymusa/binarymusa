@@ -4,7 +4,7 @@ Hi, I’m @binarymusa
 
 FIELD OF EXECUTION:  
 
- flask ,fullstack web development
+ Fullstack web development(python flask framework)
     
 
 <!---
